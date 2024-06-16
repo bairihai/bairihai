@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 中学生，不过因为购买了淘宝的不稳定学生包，被github edu ban掉了。
-以下是我的小号军团：
 
-[bairihai001](https://github.com/bairihai001)
+>[!note]
+> 我的小号军团: [bairihai001](https://github.com/bairihai001)
 
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
