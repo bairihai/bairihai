@@ -34,6 +34,8 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
 
+关于2025的日记，暂时也是记录在《归一与杂文集》中。
+
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bairihai&hide=html)
