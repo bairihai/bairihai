@@ -18,6 +18,13 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bairihai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&bg_color=30,c64dff,66ccff&theme=dark" />
 </div>
 
+对了，我将我的obsidian日记库同时同步在**gitee仓库**和**github仓库**，并通过gitee双向同步功能，使得这些仓库保存一致。当然，由于这些仓库大部分被设置为私密。
+
+| 知识库名称       | 状态      | 描述                 | 最近更新 |
+|------------------|-----------|----------------------|----------|
+| [CTF笔记库](https://github.com/yourname/obsidian-ctf) | ![Public](https://img.shields.io/badge/Status-Public-brightgreen) | 渗透测试笔记/Writeups | ![LastCommit](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) |
+| [读书矩阵](https://github.com/yourname/book-matrix) | ![Private](https://img.shields.io/badge/Status-Private-red) | 结构化书摘系统 | 本地同步 |
+| [逆向工程日志](https://github.com/yourname/reverse-engineering) | ![WIP](https://img.shields.io/badge/Status-WIP-yellow) | 游戏逆向分析记录 | ![LastCommit](https://img.shields.io/github/last-commit/yourname/reverse-engineering) |
 
 <!--
 
