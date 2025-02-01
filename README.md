@@ -35,6 +35,12 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 关于2025的日记，暂时也是记录在《归一与杂文集》中。
 
+
+
+对了，上面表格仅仅是初步的整理，我使用我自己开发的my-profile工具进行输入/输出的完全聚合。
+
+我十分欢迎并邀请您去那里看看我的更多笔记，包含语雀、WPS、qq空间、微博、知乎等等的、所有我的创作的源文件！
+
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bairihai&hide=html)
