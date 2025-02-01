@@ -22,11 +22,16 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 对了，我将我的obsidian日记库同时同步在**gitee仓库**和**github仓库**，并通过gitee双向同步功能，使得这些仓库保存一致。当然，由于这些仓库大部分被设置为私密。
 
-| Github知识库 | 其他查看方式 | 状态 | 最近更新 | 备注 |
+
+| Github知识库 | 其他查看方式 | 状态 | 最近更新 | 状况备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| [2023日记库](https://github.com/yourname/obsidian-ctf) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 已完结，gitee仓库**已关闭**，本地文档**已归档** |
-| [2024日记库](https://github.com/yourname/book-matrix) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结 |
+| [2023日记库](https://github.com/yourname/obsidian-ctf) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 已完结。<br>gitee仓库**已关闭**，<br>本地文档**已归档** |
+| [2024日记库](https://github.com/yourname/book-matrix) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结。<br> |
+| 归一与杂文集/万象我生Unity-me | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) |  |  |
 | [逆向工程日志](https://github.com/yourname/reverse-engineering) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Public-brightgreen) | ![](https://img.shields.io/github/last-commit/yourname/reverse-engineering) | - |
+注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
+
+这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
 
 <!--
 
