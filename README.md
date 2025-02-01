@@ -27,7 +27,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 | ---- | ---- | ---- | ---- | ---- |
 | [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 已完结。<br>gitee仓库**已关闭**，<br>本地文档**已归档** |
 | 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结。<br> |
-| [归一与杂文集/万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) |  | **持续更新** |
+| [归一与杂文集/万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | **持续更新** |
 
 注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
 
