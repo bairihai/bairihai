@@ -29,6 +29,8 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 | 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结。<br> |
 | [归一与杂文集/万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | **持续更新** |
 
+> 请按下`ctrl`+点击，这样就能在新标签页打开链接。
+
 注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
 
 这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
