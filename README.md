@@ -24,7 +24,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 | Github知识库 | 其他查看方式 | 状态 | 最近更新 | 备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| [2023日记库](https://github.com/yourname/obsidian-ctf) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 已完结，gitee仓库**已关闭** |
+| [2023日记库](https://github.com/yourname/obsidian-ctf) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 已完结，gitee仓库**已关闭**，本地文档**已归档** |
 | [2024日记库](https://github.com/yourname/book-matrix) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Private-red) |  | 已完结 |
 | [逆向工程日志](https://github.com/yourname/reverse-engineering) | [Gitee](https://gitee.com/bairihai/projects?) | ![](https://img.shields.io/badge/Status-Public-brightgreen) | ![](https://img.shields.io/github/last-commit/yourname/reverse-engineering) | - |
 
