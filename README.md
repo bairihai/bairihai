@@ -25,13 +25,13 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 | Github知识库 | 其他查看方式 | 状态 | 最近更新 | 状况备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | ![Archived](https://img.shields.io/badge/Status-Archived-red) |
-| 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Status-Private-red) |  | ![Archived](https://img.shields.io/badge/Status-Archived-red) |
+| [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) |
+| 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Status-Private-red) |  | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) |
 | [归一与杂文集/万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | **持续更新** |
 
 > 请按下`ctrl`+点击，这样就能在新标签页打开链接。
 > 
-> ![Archived](https://img.shields.io/badge/Status-Archived-red)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
+> ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
 
 注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
 
