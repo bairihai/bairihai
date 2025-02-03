@@ -25,7 +25,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 | Github知识库 | 其他查看方式 | 状态 | 最近更新 | 状况备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) |
+| [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | ![](https://img.shields.io/badge/Completely%20Archived-2023-lightgrey) 注：github repo直到25.2.4才关闭 |
 | 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Status-Private-red) |  | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) |
 | [归一与杂文集/万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | **持续更新** |
 
