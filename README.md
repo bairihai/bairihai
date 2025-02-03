@@ -31,7 +31,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 > 请按下`ctrl`+点击，这样就能在新标签页打开链接。
 > 
-> ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
+> ![](https://img.shields.io/badge/Completely%20Archived-Date-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
 
 注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
 
