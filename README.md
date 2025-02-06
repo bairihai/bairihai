@@ -34,12 +34,14 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 > 
 > ![](https://img.shields.io/badge/Completely%20Archived-Date-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
 
+
+<!--
 注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
 
 这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
 
 关于2025的日记，暂时也是记录在《归一与杂文集》中。
-
+-->
 
 
 对了，上面表格仅仅是初步的整理，我使用我自己开发的my-profile工具进行输入/输出的完全聚合。
