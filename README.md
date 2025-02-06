@@ -46,6 +46,8 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 我十分欢迎并邀请您去那里看看我的更多笔记，包含语雀、WPS、qq空间、微博、知乎等等的、所有我的创作的源文件！
 
+> 在路上找人，而非找人再上路。今天的我，在路上
+
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bairihai&hide=html)
