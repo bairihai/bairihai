@@ -28,7 +28,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 | [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Completely%20Archived-2023-lightgrey) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 注：github repo直到25.2.4才关闭 |
 | 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |  |
 | 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 由于要归档2024的日记，把整个库都关了。完结。 |
-| 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/Illumination-of-Unrealized) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | **持续更新中**，继承了万象我生的长期文稿。 |
+| 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | **持续更新中**，继承了万象我生的长期文稿。 |
 | 归一与杂文集/紫洋流Myrtle-Monsoon | 2026即将更新 | 关于花航（空/海）、高考，以及那颗遗失于起点的蒲桃
 
 > 请按下`ctrl`+点击，这样就能在新标签页打开链接。
