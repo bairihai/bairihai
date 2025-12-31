@@ -29,7 +29,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 | 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |  |
 | 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Completely%20Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 由于要归档2024的日记，把整个库都关了。完结。 |
 | 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) | ![](https://img.shields.io/badge/Status-Private-red) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 2026.1.1 封笔，已完成本地git重置+两remote停用 |
-| 归一与杂文集/紫洋流Myrtle-Monsoon | [Gitee](https://gitee.com/bairihai/myrtle-monsoon) |  | **持续更新中**，2026一所悬命 |
+| 归一与杂文集/紫洋流Myrtle-Monsoon | [Gitee](https://gitee.com/bairihai/myrtle-monsoon) |  |  | **持续更新中**，2026一所悬命 |
 
 > 请按下`ctrl`+点击，这样就能在新标签页打开链接。
 > 
