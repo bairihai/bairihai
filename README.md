@@ -32,6 +32,8 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 | 归一与杂文集/紫洋流Myrtle-Monsoon | [Gitee](https://gitee.com/bairihai/myrtle-monsoon) | ![](https://img.shields.io/badge/Status-Private-red) |  | **持续更新中**，2026一所悬命 |
 
 > 请按下`ctrl`+点击，这样就能在新标签页打开链接。
+>
+> 由于要进行同步的工作，大约在2024开始，日记和杂文集进行了合一。早先，日记库和杂文集都是独立的。后来，日记库加入了杂文集。
 > 
 > ![](https://img.shields.io/badge/Completely%20Archived-Date-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
 > 为求保证git记录连贯性，自2026起，所有文章都收录于《紫洋流》，这一仓库的git功能、排版功能、资源存储即在本体基础上迭代，不再按年分割。已有的往年分割文章会进行包含镜像整理在内的诸多操作。
