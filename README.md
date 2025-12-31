@@ -25,8 +25,9 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 | Github知识库 | 其他查看方式 | 状态 | 最近更新 | 状况备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| [2023日记库](https://github.com/bairihai/New-zone-dairy) | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Archived-2023-lightgrey) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 注：github repo直到25.2.4才关闭 |
-| 2024日记库 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |  |
+| [2023日记库](https://github.com/bairihai/New-zone-dairy)/new-zone-dairy | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Archived-2023-lightgrey) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 注：github repo直到25.2.4才关闭 |
+| 2024日记库/new-zone-dairy-2024 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |  |
+| 下起，日记库取消 | —— | —— | —— | —— |
 | 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 由于要归档2024的日记，把整个库都关了。完结。 |
 | 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) |  ![](https://img.shields.io/badge/Archived-2026.1.1-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 2026.1.1 封笔，已完成本地git重置+两remote停用 |
 | 归一与杂文集/紫洋流Myrtle-Monsoon | [Gitee](https://gitee.com/bairihai/myrtle-monsoon) | ![](https://img.shields.io/badge/Status-Private-red) |  | **持续更新中**，2026一所悬命 |
