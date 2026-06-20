@@ -2,14 +2,13 @@
 
 
 
-%%中学生，不过因为购买了淘宝的不稳定学生包，被github edu ban掉了。
+<!--中学生，不过因为购买了淘宝的不稳定学生包，被github edu ban掉了。
 
 头像（毛玻璃）、昵称（赛尔号）都是初中那会儿玩编程猫的结果。我这人比较念旧，就不改了。
 
  我信奉**不可持续发展**，最大化且全部利用目前手头的资源。时间宝贵，光阴莫负。 
-
 >[!note]
-> 我的小号军团: [bairihai001](https://github.com/bairihai001) %%
+> 我的小号军团: [bairihai001](https://github.com/bairihai001) -->
 
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
@@ -40,7 +39,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 
 
->[!note]- 其他说明
+>[!note] 其他说明
 >请按下`ctrl`+点击，这样就能在新标签页打开链接。
 >
 > 由于要进行同步的工作，大约在2024开始，日记和杂文集进行了合一。早先，日记库和杂文集都是独立的。后来，日记库加入了杂文集。
@@ -81,7 +80,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 **原创部分**，我目前写了两个个人世界观的大杂烩作品，只是一些自娱自乐，不过请允许我推销一下，他们真的很好玩！
 
 
-> [!info]+ ⛰️SD
+> [!info] ⛰️SD
 > 想象你在一个深山老林的师门中闭关，日复一日看着山门外的景色。
 > 人生亦是如此，离开之前，回首之后：[SD]() 中既有关于渴望爱、被爱、少年的爱，也有对于追求和执着的叩问。
 > 本作正是讲述了这样背景下，对抗怪物，任侠江湖的故事。
@@ -97,7 +96,7 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 
 
-> [!NOTE]+ 📖TT
+> [!NOTE] 📖TT
 > “把书念好”，如果简单来说我的少年乃至今日的追求，这四个字便是主题。然而这四个字背后，究竟意味着什么呢？……
 > 骗局、审美、欺骗、权力、人情、点招、暗考、条子生、中考体育、校园霸凌、疫情网课、强基计划、服从性测试、混沌盲目的世界体系、流淌其中的金钱诱惑、被公然违背践踏的我国现行教育法令……
 > 
