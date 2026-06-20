@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<span style="color: red; font-size: 20px;">这段文字是红色的</span>
+
 中学生，不过因为购买了淘宝的不稳定学生包，被github edu ban掉了。
 
 头像（毛玻璃）、昵称（赛尔号）都是初中那会儿玩编程猫的结果。我这人比较念旧，就不改了。
