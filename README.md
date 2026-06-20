@@ -1,40 +1,47 @@
 ## Hi there 👋
 
-<span style="color: red; font-size: 20px;">这段文字是红色的</span>
 
-中学生，不过因为购买了淘宝的不稳定学生包，被github edu ban掉了。
+
+%%中学生，不过因为购买了淘宝的不稳定学生包，被github edu ban掉了。
 
 头像（毛玻璃）、昵称（赛尔号）都是初中那会儿玩编程猫的结果。我这人比较念旧，就不改了。
 
-我信奉**不可持续发展**，最大化且全部利用目前手头的资源。时间宝贵，光阴莫负。
+ 我信奉**不可持续发展**，最大化且全部利用目前手头的资源。时间宝贵，光阴莫负。 
 
 >[!note]
-> 我的小号军团: [bairihai001](https://github.com/bairihai001)
+> 我的小号军团: [bairihai001](https://github.com/bairihai001) %%
 
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 <!-- GitHub 数据统计 从hiroi-sora那里薅了下来。基于html -->
+
 <div align="center" >
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bairihai&hide_title=true&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bairihai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&bg_color=30,c64dff,66ccff&theme=dark" />
 </div>
 
----
+## 文集
 
-对了，我将我的obsidian日记库同时同步在**gitee仓库**和**github仓库**，并通过gitee双向同步功能，使得这些仓库保存一致。当然，由于这些仓库大部分被设置为私密。
+我将我的obsidian日记库同时同步在**gitee仓库**和**github仓库**，并通过gitee双向同步功能，使得这些仓库保存一致。不过这些仓库大部分被设置为私密，目前未开放阅读。
+
+| Github知识库                                                                                      | 镜像                                                             | 状态                                                            | 最近更新                                                                                 | 状况备注                             |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
+| 2023日记库/[new-zone-dairy](https://github.com/bairihai/New-zone-dairy)                           | [Gitee](https://gitee.com/bairihai/new-zone-dairy)             | ![](https://img.shields.io/badge/Archived-2023-lightgrey)     | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf)                 | 注：github repo直到25.2.4才关闭         |
+| 2024日记库/new-zone-dairy-2024                                                                    | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024)        | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |                                  |
+| ——**下起，日记库取消**——                                                                               | ——                                                             | ——                                                            | ——                                                                                   | ——                               |
+| 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me)                                    | [Gitee](https://gitee.com/bairihai/unity-me)                   | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me)                     | 由于要归档2024的日记，把整个库都关了。完结。         |
+| 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) | ![](https://img.shields.io/badge/Archived-2026.1.1-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me)                     | 2026.1.1 封笔，已完成本地git重置+两remote停用 |
+| 归一与杂文集/[紫洋流Myrtle-Monsoon](https://github.com/bairihai/Myrtle-Monsoon)                         | [Gitee](https://gitee.com/bairihai/myrtle-monsoon)             | ![](https://img.shields.io/badge/Status-Private-red)          |                                                                                      | **持续更新中**，2026一所悬命               |
 
 
-| Github知识库 | 镜像 | 状态 | 最近更新 | 状况备注 |
-| ---- | ---- | ---- | ---- | ---- |
-| [2023日记库](https://github.com/bairihai/New-zone-dairy)/new-zone-dairy | [Gitee](https://gitee.com/bairihai/new-zone-dairy) | ![](https://img.shields.io/badge/Archived-2023-lightgrey) | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf) | 注：github repo直到25.2.4才关闭 |
-| 2024日记库/new-zone-dairy-2024 | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024) | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |  |
-| **下起，日记库取消** | —— | —— | —— | —— |
-| 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me) | [Gitee](https://gitee.com/bairihai/unity-me) | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 由于要归档2024的日记，把整个库都关了。完结。 |
-| 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) |  ![](https://img.shields.io/badge/Archived-2026.1.1-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me) | 2026.1.1 封笔，已完成本地git重置+两remote停用 |
-| 归一与杂文集/紫洋流Myrtle-Monsoon | [Gitee](https://gitee.com/bairihai/myrtle-monsoon) | ![](https://img.shields.io/badge/Status-Private-red) |  | **持续更新中**，2026一所悬命 |
 
-> 请按下`ctrl`+点击，这样就能在新标签页打开链接。
+
+
+
+
+
+>[!note]- 其他说明
+>请按下`ctrl`+点击，这样就能在新标签页打开链接。
 >
 > 由于要进行同步的工作，大约在2024开始，日记和杂文集进行了合一。早先，日记库和杂文集都是独立的。后来，日记库加入了杂文集。
 > 
@@ -54,10 +61,72 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 我十分欢迎并邀请您去那里看看我的更多笔记，包含语雀、WPS、qq空间、微博、知乎等等的、所有我的创作的源文件！
 
+## 开发代表作
+
+
+[Text-maestro](https://github.com/bairihai/Text-maestro) 是一个文本分析的工具，提供GUI、CLI、网页版，还支持作为插件集成在obsidian中使用！
+
+此外，[My-profile](https://github.com/bairihai/My-profile) 网站提供您回顾过往在网络上看过的档案，并通过记录自己、观察自己，在AI时代获得有趣的另一视角。
+
+
+
+最近，我还制作 [CM-TTer]() 这一作品暂时保密。
+
+其他推荐回头会随着图片等慢慢更新。
+## IP代表作
+
+首先是**同人作品**。这些作品大多是短篇或是散落，回头会进行补充。
+
+
+**原创部分**，我目前写了两个个人世界观的大杂烩作品，只是一些自娱自乐，不过请允许我推销一下，他们真的很好玩！
+
+
+> [!info]+ ⛰️SD
+> 想象你在一个深山老林的师门中闭关，日复一日看着山门外的景色。
+> 人生亦是如此，离开之前，回首之后：[SD]() 中既有关于渴望爱、被爱、少年的爱，也有对于追求和执着的叩问。
+> 本作正是讲述了这样背景下，对抗怪物，任侠江湖的故事。
+> 
+> 这一作品：
+> 
+> - 缘起我小学时的鬼灭之刃热潮
+> - 发心于对于成为武夫英雄以及被集体爱被人关心融入成长的渴望
+> - 结合当时阅读的1984等世界观中的阴暗作为敌人
+> 
+> 不知不觉已经更新了好多年，可以说是陪伴我成长的作品。
+
+
+
+
+> [!NOTE]+ 📖TT
+> “把书念好”，如果简单来说我的少年乃至今日的追求，这四个字便是主题。然而这四个字背后，究竟意味着什么呢？……
+> 骗局、审美、欺骗、权力、人情、点招、暗考、条子生、中考体育、校园霸凌、疫情网课、强基计划、服从性测试、混沌盲目的世界体系、流淌其中的金钱诱惑、被公然违背践踏的我国现行教育法令……
+> 
+> 本作的开始，千禧年的一片凭空出现的花海彻底改变了我国教育的面貌。各路人物在这里互相交错。不过总之，他们或许能够解答一个问题：
+> 属于我的时代，书呆子的时代，象征正确的时代——
+> 其名 [TT]() 的世界，如今身在何方呢？
+> 
+> 本书
+> - 起自我在西北县城普高和发达城市重高的经历
+> - 考察各个社会作品、研究、环境
+> - 发心于对于目前中国教育体制的告慰
+> 
+> 即使世界看我以一意孤行，我仍无悔不改逆着人流找寻你，象牙塔之名。
+> 
+> “那，请别不舍得向我告别啦。”
+
+
+
+
+
+
+
+
+<!--
+
 > 如果说物理题的难点在于分析而非计算，那么这些工程也是一样。先确定好需要做的事，拆分完成就去做吧。而这就是我所行走的路：
 > 在路上找人，而非找人再上路。今天的我，在路上
 
-<!--
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bairihai&hide=html)
 ![bairihai's github stats](https://github-readme-stats.vercel.app/api?username=bairihai&show_icons=true&count_private=true&line_height=40)
