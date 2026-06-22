@@ -31,7 +31,10 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 最近，我还制作 [CM-TTer]() 这一作品暂时保密。
 
+在未来几年内可见的计划之中，我还将制作一些量化交易、老项目翻新等作品。
+
 其他推荐回头会随着图片等慢慢更新。
+
 ## IP代表作
 
 首先是**同人作品**。这些作品大多是短篇或是散落，回头会进行补充。
