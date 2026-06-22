@@ -19,46 +19,6 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bairihai&hide_title=true&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
 </div>
 
-## 文集
-
-我将我的obsidian日记库同时同步在**gitee仓库**和**github仓库**，并通过gitee双向同步功能，使得这些仓库保存一致。不过这些仓库大部分被设置为私密，目前未开放阅读。
-
-| Github知识库                                                                                      | 镜像                                                             | 状态                                                            | 最近更新                                                                                 | 状况备注                             |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
-| 2023日记库/[new-zone-dairy](https://github.com/bairihai/New-zone-dairy)                           | [Gitee](https://gitee.com/bairihai/new-zone-dairy)             | ![](https://img.shields.io/badge/Archived-2023-lightgrey)     | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf)                 | 注：github repo直到25.2.4才关闭         |
-| 2024日记库/new-zone-dairy-2024                                                                    | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024)        | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |                                  |
-| ——**下起，日记库取消**——                                                                               | ——                                                             | ——                                                            | ——                                                                                   | ——                               |
-| 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me)                                    | [Gitee](https://gitee.com/bairihai/unity-me)                   | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me)                     | 由于要归档2024的日记，把整个库都关了。完结。         |
-| 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) | ![](https://img.shields.io/badge/Archived-2026.1.1-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me)                     | 2026.1.1 封笔，已完成本地git重置+两remote停用 |
-| 归一与杂文集/[紫洋流Myrtle-Monsoon](https://github.com/bairihai/Myrtle-Monsoon)                         | [Gitee](https://gitee.com/bairihai/myrtle-monsoon)             | ![](https://img.shields.io/badge/Status-Private-red)          |                                                                                      | **持续更新中**，2026一所悬命               |
-
-
-
-
-
-
-
-
->[!note] 其他说明
->请按下`ctrl`+点击，这样就能在新标签页打开链接。
->
-> 由于要进行同步的工作，大约在2024开始，日记和杂文集进行了合一。早先，日记库和杂文集都是独立的。后来，日记库加入了杂文集。
-> 
-> ![](https://img.shields.io/badge/Completely%20Archived-Date-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
-> 为求保证git记录连贯性，自2026起，所有文章都收录于《紫洋流》，这一仓库的git功能、排版功能、资源存储即在本体基础上迭代，不再按年分割。已有的往年分割文章会进行包含镜像整理在内的诸多操作。
-
-<!--
-注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
-
-这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
-
-关于2025的日记，暂时也是记录在《归一与杂文集》中。
--->
-
-
-对了，上面表格仅仅是初步的整理，我使用我自己开发的my-profile工具进行输入/输出的完全聚合。
-
-我十分欢迎并邀请您去那里看看我的更多笔记，包含语雀、WPS、qq空间、微博、知乎等等的、所有我的创作的源文件！
 
 ## 开发代表作
 
@@ -119,6 +79,46 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/bairihai).
 
 
 
+## 文集
+
+我将我的obsidian日记库同时同步在**gitee仓库**和**github仓库**，并通过gitee双向同步功能，使得这些仓库保存一致。不过这些仓库大部分被设置为私密，目前未开放阅读。
+
+| Github知识库                                                                                      | 镜像                                                             | 状态                                                            | 最近更新                                                                                 | 状况备注                             |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
+| 2023日记库/[new-zone-dairy](https://github.com/bairihai/New-zone-dairy)                           | [Gitee](https://gitee.com/bairihai/new-zone-dairy)             | ![](https://img.shields.io/badge/Archived-2023-lightgrey)     | ![](https://img.shields.io/github/last-commit/yourname/obsidian-ctf)                 | 注：github repo直到25.2.4才关闭         |
+| 2024日记库/new-zone-dairy-2024                                                                    | [Gitee](https://gitee.com/bairihai/new-zone-dairy-2024)        | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/bairihai/new-zone-dairy-2024) |                                  |
+| ——**下起，日记库取消**——                                                                               | ——                                                             | ——                                                            | ——                                                                                   | ——                               |
+| 归一与杂文集/[万象我生Unity-me](https://github.com/bairihai/Unity-me)                                    | [Gitee](https://gitee.com/bairihai/unity-me)                   | ![](https://img.shields.io/badge/Archived-2025.2.4-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me)                     | 由于要归档2024的日记，把整个库都关了。完结。         |
+| 归一与杂文集/[新航站Illumination-of-Unrealized](https://github.com/bairihai/Illumination-of-Unrealized) | [Gitee](https://gitee.com/bairihai/illumination-of-unrealized) | ![](https://img.shields.io/badge/Archived-2026.1.1-lightgrey) | ![](https://img.shields.io/github/last-commit/bairihai/Unity-me)                     | 2026.1.1 封笔，已完成本地git重置+两remote停用 |
+| 归一与杂文集/[紫洋流Myrtle-Monsoon](https://github.com/bairihai/Myrtle-Monsoon)                         | [Gitee](https://gitee.com/bairihai/myrtle-monsoon)             | ![](https://img.shields.io/badge/Status-Private-red)          |                                                                                      | **持续更新中**，2026一所悬命               |
+
+
+
+
+
+
+
+
+>[!note] 其他说明
+>请按下`ctrl`+点击，这样就能在新标签页打开链接。
+>
+> 由于要进行同步的工作，大约在2024开始，日记和杂文集进行了合一。早先，日记库和杂文集都是独立的。后来，日记库加入了杂文集。
+> 
+> ![](https://img.shields.io/badge/Completely%20Archived-Date-lightgrey)：指gitee仓库**已关闭**，本地文档**已创建一个完善的快照之后删除**，github仓库**已Archive**，内容上不再做出建设性更新，其他所有的查看方式都已经确保更新完结。
+> 为求保证git记录连贯性，自2026起，所有文章都收录于《紫洋流》，这一仓库的git功能、排版功能、资源存储即在本体基础上迭代，不再按年分割。已有的往年分割文章会进行包含镜像整理在内的诸多操作。
+
+<!--
+注：上文所述 《2024日记库》，实际上由于2月中旬我还用官方同步取代了原本的remotely save，这一库需要同步，就和《归一与杂文集》进行了简单的合并。
+
+这落下了一个祸根：我现在难以将这些短期文档和长期文档拆开。具体情况还在处理，最终的办法可能会下一些重功夫（写一些插件）来完成，暂时搁置。
+
+关于2025的日记，暂时也是记录在《归一与杂文集》中。
+-->
+
+
+对了，上面表格仅仅是初步的整理，我使用我自己开发的my-profile工具进行输入/输出的完全聚合。
+
+我十分欢迎并邀请您去那里看看我的更多笔记，包含语雀、WPS、qq空间、微博、知乎等等的、所有我的创作的源文件！
 
 
 
